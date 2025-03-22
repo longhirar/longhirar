@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rafael Longhi</h1>
-<h3 align="center">A Software Engineering Student @ PUCPR and Scholarship Student @ Apple Developer Academy</h3>
-
-- 👨‍💻 All of my projects are available at [https://longhi.dev](https://longhi.dev)
+<h1 align="center">
+  
+  Hi 👋, I'm [Rafael Longhi](https://longhi.dev/)
+  
+</h1>
+<h3 align="center">
+  
+  Bachelor in Computer Science @ [PUCPR](https://pucpr.br) and Scholarship Student @ [Apple Developer Academy](https://developeracademy.pucpr.br/)
+  
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
